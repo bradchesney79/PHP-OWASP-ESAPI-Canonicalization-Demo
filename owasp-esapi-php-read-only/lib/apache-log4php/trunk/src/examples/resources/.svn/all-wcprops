@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources
+END
+echo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/echo.properties
+END
+client.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/client.properties
+END
+file.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/file.properties
+END
+syslog.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/syslog.properties
+END
+mail.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/mail.properties
+END
+php.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/php.properties
+END
+stringmatchfilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/stringmatchfilter.xml
+END
+levelrangefilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/levelrangefilter.xml
+END
+levelmatchfilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/levelmatchfilter.xml
+END
+dailyfile.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/dailyfile.properties
+END
+console.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/console.properties
+END
+mdc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/mdc.properties
+END
+cache.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/cache.properties
+END
+ndc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/ndc.properties
+END
+server.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/examples/resources/server.properties
+END

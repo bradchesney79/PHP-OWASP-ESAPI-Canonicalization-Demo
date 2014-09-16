@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers
+END
+_helpers---LoggerTransform.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/_helpers---LoggerTransform.php.html
+END
+LoggerPatternParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/LoggerPatternParser.html
+END
+LoggerClassNamePatternConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/LoggerClassNamePatternConverter.html
+END
+LoggerLocationPatternConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/LoggerLocationPatternConverter.html
+END
+LoggerOptionConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/LoggerOptionConverter.html
+END
+LoggerCategoryPatternConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/LoggerCategoryPatternConverter.html
+END
+LoggerDatePatternConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/LoggerDatePatternConverter.html
+END
+_helpers---LoggerFormattingInfo.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/_helpers---LoggerFormattingInfo.php.html
+END
+LoggerPatternConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/LoggerPatternConverter.html
+END
+LoggerBasicPatternConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/LoggerBasicPatternConverter.html
+END
+_helpers---LoggerPatternParser.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/_helpers---LoggerPatternParser.php.html
+END
+LoggerNamedPatternConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/LoggerNamedPatternConverter.html
+END
+LoggerTransform.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/LoggerTransform.html
+END
+_helpers---LoggerOptionConverter.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/_helpers---LoggerOptionConverter.php.html
+END
+LoggerLiteralPatternConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/LoggerLiteralPatternConverter.html
+END
+_helpers---LoggerPatternConverter.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/_helpers---LoggerPatternConverter.php.html
+END
+LoggerMDCPatternConverter.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/helpers/LoggerMDCPatternConverter.html
+END

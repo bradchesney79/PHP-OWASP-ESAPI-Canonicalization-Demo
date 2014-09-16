@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/837/trunk/test
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/826/trunk/test/bootstrap.php
+END
+ExtraTestsForHTTP.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/728/trunk/test/ExtraTestsForHTTP.php
+END
+AllTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/826/trunk/test/AllTests.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/579/trunk/test/readme.txt
+END

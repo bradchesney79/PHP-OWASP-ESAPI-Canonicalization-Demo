@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/835/trunk/test/codecs
+END
+UnixCodecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/826/trunk/test/codecs/UnixCodecTest.php
+END
+Base64CodecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/826/trunk/test/codecs/Base64CodecTest.php
+END
+MySQLCodecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/826/trunk/test/codecs/MySQLCodecTest.php
+END
+OracleCodecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/826/trunk/test/codecs/OracleCodecTest.php
+END
+JavaScriptCodecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/826/trunk/test/codecs/JavaScriptCodecTest.php
+END
+CSSCodecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/835/trunk/test/codecs/CSSCodecTest.php
+END
+WindowsCodecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/826/trunk/test/codecs/WindowsCodecTest.php
+END
+VBScriptCodecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/826/trunk/test/codecs/VBScriptCodecTest.php
+END
+XMLEntityCodecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/826/trunk/test/codecs/XMLEntityCodecTest.php
+END
+LDAPCodecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/826/trunk/test/codecs/LDAPCodecTest.php
+END
+PercentCodecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/826/trunk/test/codecs/PercentCodecTest.php
+END
+HTMLEntityCodecTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/826/trunk/test/codecs/HTMLEntityCodecTest.php
+END

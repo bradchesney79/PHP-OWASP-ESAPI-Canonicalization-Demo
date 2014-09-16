@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/appenders
+END
+LoggerAppenderPDOTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/appenders/LoggerAppenderPDOTest.php
+END
+LoggerAppenderConsoleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/appenders/LoggerAppenderConsoleTest.php
+END
+LoggerAppenderPhpTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/appenders/LoggerAppenderPhpTest.php
+END
+LoggerAppenderNullTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/appenders/LoggerAppenderNullTest.php
+END
+LoggerAppenderEchoTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/appenders/LoggerAppenderEchoTest.php
+END
+LoggerAppenderFileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/appenders/LoggerAppenderFileTest.php
+END

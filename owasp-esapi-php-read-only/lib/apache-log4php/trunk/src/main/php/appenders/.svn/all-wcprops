@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders
+END
+LoggerAppenderMail.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderMail.php
+END
+LoggerAppenderPDO.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderPDO.php
+END
+LoggerAppenderDailyFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderDailyFile.php
+END
+LoggerAppenderConsole.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderConsole.php
+END
+LoggerAppenderMailEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderMailEvent.php
+END
+LoggerAppenderRollingFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderRollingFile.php
+END
+LoggerAppenderPhp.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderPhp.php
+END
+LoggerAppenderSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderSocket.php
+END
+LoggerAppenderAdodb.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderAdodb.php
+END
+LoggerAppenderNull.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderNull.php
+END
+LoggerAppenderEcho.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderEcho.php
+END
+LoggerAppenderFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderFile.php
+END
+LoggerAppenderSyslog.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/appenders/LoggerAppenderSyslog.php
+END

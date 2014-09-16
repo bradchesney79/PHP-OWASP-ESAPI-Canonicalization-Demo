@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIScheme
+END
+mailto.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIScheme/mailto.php
+END
+ftp.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIScheme/ftp.php
+END
+news.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIScheme/news.php
+END
+http.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIScheme/http.php
+END
+nntp.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIScheme/nntp.php
+END
+https.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIScheme/https.php
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/802/trunk/src/errors
+END
+AuthenticationCredentialsException.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/794/trunk/src/errors/AuthenticationCredentialsException.php
+END
+ExecutorException.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/794/trunk/src/errors/ExecutorException.php
+END
+ValidationUploadException.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/794/trunk/src/errors/ValidationUploadException.php
+END
+AccessControlException.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/794/trunk/src/errors/AccessControlException.php
+END
+AuthenticationLoginException.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/794/trunk/src/errors/AuthenticationLoginException.php
+END
+EnterpriseSecurityException.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/794/trunk/src/errors/EnterpriseSecurityException.php
+END
+AvailabilityException.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/794/trunk/src/errors/AvailabilityException.php
+END
+AuthenticationHostException.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/794/trunk/src/errors/AuthenticationHostException.php
+END
+IntegrityException.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/802/trunk/src/errors/IntegrityException.php
+END
+AuthenticationAccountsException.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/794/trunk/src/errors/AuthenticationAccountsException.php
+END
+AuthenticationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/794/trunk/src/errors/AuthenticationException.php
+END
+CertificateException.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/794/trunk/src/errors/CertificateException.php
+END
+ValidationAvailabilityException.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/794/trunk/src/errors/ValidationAvailabilityException.php
+END
+EncodingException.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/794/trunk/src/errors/EncodingException.php
+END
+ValidationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/794/trunk/src/errors/ValidationException.php
+END
+EncryptionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/794/trunk/src/errors/EncryptionException.php
+END
+IntrusionException.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/794/trunk/src/errors/IntrusionException.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/bootstrap.php
+END
+LoggerExceptionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/LoggerExceptionTest.php
+END
+LoggerHierarchyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/LoggerHierarchyTest.php
+END
+LoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/LoggerTest.php
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/phpunit.xml
+END
+LoggerRootTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/LoggerRootTest.php
+END
+LoggerTest.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/LoggerTest.properties
+END
+LoggerFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/LoggerFilterTest.php
+END
+LoggerLevelTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/LoggerLevelTest.php
+END
+LoggerLoggingEventTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/LoggerLoggingEventTest.php
+END
+LoggerReflectionUtilsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/LoggerReflectionUtilsTest.php
+END

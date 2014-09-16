@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/831/trunk/src/reference/validation
+END
+DateFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/831/trunk/src/reference/validation/DateFormat.php
+END
+HTMLValidationRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/823/trunk/src/reference/validation/HTMLValidationRule.php
+END
+CreditCardValidationRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/797/trunk/src/reference/validation/CreditCardValidationRule.php
+END
+StringValidationRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/797/trunk/src/reference/validation/StringValidationRule.php
+END
+NumberValidationRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/797/trunk/src/reference/validation/NumberValidationRule.php
+END
+BaseValidationRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/744/trunk/src/reference/validation/BaseValidationRule.php
+END
+WordValidationRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/823/trunk/src/reference/validation/WordValidationRule.php
+END
+DateValidationRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/745/trunk/src/reference/validation/DateValidationRule.php
+END
+EmailAddressValidationRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/823/trunk/src/reference/validation/EmailAddressValidationRule.php
+END
+IntegerValidationRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/797/trunk/src/reference/validation/IntegerValidationRule.php
+END
+URLValidationRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/823/trunk/src/reference/validation/URLValidationRule.php
+END

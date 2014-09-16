@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi
+END
+_spi---LoggerFilter.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi/_spi---LoggerFilter.php.html
+END
+_spi---LoggerFactory.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi/_spi---LoggerFactory.php.html
+END
+_spi---LoggerLoggingEvent.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi/_spi---LoggerLoggingEvent.php.html
+END
+LoggerConfigurator.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi/LoggerConfigurator.html
+END
+LoggerLocationInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi/LoggerLocationInfo.html
+END
+LoggerFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi/LoggerFilter.html
+END
+LoggerFormattingInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi/LoggerFormattingInfo.html
+END
+LoggerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi/LoggerFactory.html
+END
+LoggerLoggingEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi/LoggerLoggingEvent.html
+END
+LoggerDefaultCategoryFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi/LoggerDefaultCategoryFactory.html
+END
+_spi---LoggerConfigurator.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi/_spi---LoggerConfigurator.php.html
+END
+_spi---LoggerLocationInfo.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/spi/_spi---LoggerLocationInfo.php.html
+END

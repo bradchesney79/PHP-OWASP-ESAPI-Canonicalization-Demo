@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/837/trunk/test/testresources
+END
+TestHelpers.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/729/trunk/test/testresources/TestHelpers.php
+END
+FileAccessRules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/579/trunk/test/testresources/FileAccessRules.txt
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/654/trunk/test/testresources/test.properties
+END
+ServiceAccessRules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/579/trunk/test/testresources/ServiceAccessRules.txt
+END
+URLAccessRules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/579/trunk/test/testresources/URLAccessRules.txt
+END
+users.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/579/trunk/test/testresources/users.txt
+END
+multipart.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/579/trunk/test/testresources/multipart.txt
+END
+FunctionAccessRules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/579/trunk/test/testresources/FunctionAccessRules.txt
+END
+ESAPI.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/837/trunk/test/testresources/ESAPI.xml
+END
+ESAPI_IDS_Tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/837/trunk/test/testresources/ESAPI_IDS_Tests.xml
+END
+DataAccessRules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/579/trunk/test/testresources/DataAccessRules.txt
+END
+antisamy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/579/trunk/test/testresources/antisamy.xml
+END
+keystore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/test/testresources/keystore
+END

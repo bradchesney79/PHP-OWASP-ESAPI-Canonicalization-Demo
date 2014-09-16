@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/835/trunk/src/codecs
+END
+CSSCodec.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/835/trunk/src/codecs/CSSCodec.php
+END
+WindowsCodec.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/805/trunk/src/codecs/WindowsCodec.php
+END
+VBScriptCodec.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/805/trunk/src/codecs/VBScriptCodec.php
+END
+XMLEntityCodec.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/805/trunk/src/codecs/XMLEntityCodec.php
+END
+Codec.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/782/trunk/src/codecs/Codec.php
+END
+PercentCodec.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/805/trunk/src/codecs/PercentCodec.php
+END
+HTMLEntityCodec.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/805/trunk/src/codecs/HTMLEntityCodec.php
+END
+UnixCodec.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/805/trunk/src/codecs/UnixCodec.php
+END
+Base64Codec.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/803/trunk/src/codecs/Base64Codec.php
+END
+MySQLCodec.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/805/trunk/src/codecs/MySQLCodec.php
+END
+OracleCodec.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/805/trunk/src/codecs/OracleCodec.php
+END
+JavaScriptCodec.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/805/trunk/src/codecs/JavaScriptCodec.php
+END
+CodecDebug.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/781/trunk/src/codecs/CodecDebug.php
+END

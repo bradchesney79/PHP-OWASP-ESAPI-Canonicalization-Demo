@@ -1,0 +1,8 @@
+enabled | 3 | locked | 1253748612
+enabled | 3 | locked | 1253896813
+enabled | unlocked | 0 | 1253896813
+enabled | locked | 4 | 1253896815
+enabled | unlocked | 1 | 1253896815
+enabled | unlocked | 1 | 1253896815
+rolea,roleb
+unlocked | 0

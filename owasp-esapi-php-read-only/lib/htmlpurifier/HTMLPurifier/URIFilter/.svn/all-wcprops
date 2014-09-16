@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIFilter
+END
+Munge.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIFilter/Munge.php
+END
+MakeAbsolute.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIFilter/MakeAbsolute.php
+END
+DisableExternalResources.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIFilter/DisableExternalResources.php
+END
+DisableExternal.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIFilter/DisableExternal.php
+END
+HostBlacklist.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/URIFilter/HostBlacklist.php
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers
+END
+LoggerPatternConverter.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers/LoggerPatternConverter.php
+END
+LoggerFormattingInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers/LoggerFormattingInfo.php
+END
+LoggerBasicPatternConverter.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers/LoggerBasicPatternConverter.php
+END
+LoggerMDCPatternConverter.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers/LoggerMDCPatternConverter.php
+END
+LoggerNamedPatternConverter.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers/LoggerNamedPatternConverter.php
+END
+LoggerPatternParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers/LoggerPatternParser.php
+END
+LoggerClassNamePatternConverter.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers/LoggerClassNamePatternConverter.php
+END
+LoggerLocationPatternConverter.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers/LoggerLocationPatternConverter.php
+END
+LoggerOptionConverter.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers/LoggerOptionConverter.php
+END
+LoggerLiteralPatternConverter.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers/LoggerLiteralPatternConverter.php
+END
+LoggerDatePatternConverter.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers/LoggerDatePatternConverter.php
+END
+LoggerCategoryPatternConverter.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/main/php/helpers/LoggerCategoryPatternConverter.php
+END

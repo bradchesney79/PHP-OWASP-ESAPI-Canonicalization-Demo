@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/579/trunk/test/http
+END
+TestHttpServletRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/579/trunk/test/http/TestHttpServletRequest.php
+END
+TestRequestDispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/579/trunk/test/http/TestRequestDispatcher.php
+END
+TestServletInputStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/579/trunk/test/http/TestServletInputStream.php
+END
+TestHttpSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/579/trunk/test/http/TestHttpSession.php
+END
+TestHttpServletResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/579/trunk/test/http/TestHttpServletResponse.php
+END
+TestFilterChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/579/trunk/test/http/TestFilterChain.php
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/579/trunk/test/http/package.html
+END

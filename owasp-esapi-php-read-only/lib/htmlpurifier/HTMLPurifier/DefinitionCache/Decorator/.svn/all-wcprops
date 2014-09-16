@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/DefinitionCache/Decorator
+END
+Template.php.in
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/DefinitionCache/Decorator/Template.php.in
+END
+Cleanup.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/DefinitionCache/Decorator/Cleanup.php
+END
+Memory.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/DefinitionCache/Decorator/Memory.php
+END

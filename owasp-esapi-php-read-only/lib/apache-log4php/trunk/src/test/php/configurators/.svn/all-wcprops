@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/configurators
+END
+test1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/configurators/test1.properties
+END
+test2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/configurators/test2.properties
+END
+test3.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/configurators/test3.properties
+END
+test1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/configurators/test1.xml
+END
+LoggerConfiguratorPhpTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/configurators/LoggerConfiguratorPhpTest.php
+END
+test1.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/configurators/test1.php
+END
+LoggerConfiguratorIniTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/configurators/LoggerConfiguratorIniTest.php
+END
+LoggerConfiguratorXmlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/configurators/LoggerConfiguratorXmlTest.php
+END
+LoggerConfiguratorBasicTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/configurators/LoggerConfiguratorBasicTest.php
+END

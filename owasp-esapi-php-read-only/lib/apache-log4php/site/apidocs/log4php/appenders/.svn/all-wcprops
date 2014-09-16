@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders
+END
+_appenders---LoggerAppenderFile.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderFile.php.html
+END
+LoggerAppenderEcho.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/LoggerAppenderEcho.html
+END
+_appenders---LoggerAppenderSyslog.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderSyslog.php.html
+END
+LoggerAppenderFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/LoggerAppenderFile.html
+END
+_appenders---LoggerAppenderMail.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderMail.php.html
+END
+LoggerAppenderSyslog.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/LoggerAppenderSyslog.html
+END
+LoggerAppenderMail.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/LoggerAppenderMail.html
+END
+_appenders---LoggerAppenderMailEvent.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderMailEvent.php.html
+END
+_appenders---LoggerAppenderDb.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderDb.php.html
+END
+LoggerAppenderMailEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/LoggerAppenderMailEvent.html
+END
+LoggerAppenderDb.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/LoggerAppenderDb.html
+END
+_appenders---LoggerAppenderPhp.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderPhp.php.html
+END
+_appenders---LoggerAppenderSocket.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderSocket.php.html
+END
+LoggerAppenderPhp.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/LoggerAppenderPhp.html
+END
+LoggerAppenderSocket.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/LoggerAppenderSocket.html
+END
+_appenders---LoggerAppenderConsole.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderConsole.php.html
+END
+_appenders---LoggerAppenderDailyFile.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderDailyFile.php.html
+END
+LoggerAppenderDailyFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/LoggerAppenderDailyFile.html
+END
+_appenders---LoggerAppenderRollingFile.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderRollingFile.php.html
+END
+LoggerAppenderRollingFile.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/LoggerAppenderRollingFile.html
+END
+_appenders---LoggerAppenderAdodb.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderAdodb.php.html
+END
+_appenders---LoggerAppenderNull.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderNull.php.html
+END
+LoggerAppenderAdodb.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/LoggerAppenderAdodb.html
+END
+LoggerAppenderNull.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/LoggerAppenderNull.html
+END
+_appenders---LoggerAppenderEcho.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/78/trunk/lib/apache-log4php/site/apidocs/log4php/appenders/_appenders---LoggerAppenderEcho.php.html
+END

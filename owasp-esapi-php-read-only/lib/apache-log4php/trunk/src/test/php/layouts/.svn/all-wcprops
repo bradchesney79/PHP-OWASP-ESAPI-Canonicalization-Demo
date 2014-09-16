@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/layouts
+END
+LoggerLayoutXmlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/layouts/LoggerLayoutXmlTest.php
+END
+LoggerLayoutHtmlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/layouts/LoggerLayoutHtmlTest.php
+END
+LoggerLayoutSimpleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/layouts/LoggerLayoutSimpleTest.php
+END
+LoggerLayoutTTCCTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/layouts/LoggerLayoutTTCCTest.php
+END
+LoggerLayoutPatternTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/layouts/LoggerLayoutPatternTest.php
+END

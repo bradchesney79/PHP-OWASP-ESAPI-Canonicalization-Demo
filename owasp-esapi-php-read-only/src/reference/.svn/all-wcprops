@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/836/trunk/src/reference
+END
+DefaultValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/832/trunk/src/reference/DefaultValidator.php
+END
+IntegerAccessReferenceMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/832/trunk/src/reference/IntegerAccessReferenceMap.php
+END
+DefaultExecutor.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/815/trunk/src/reference/DefaultExecutor.php
+END
+DefaultAuditorFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/804/trunk/src/reference/DefaultAuditorFactory.php
+END
+DefaultSecurityConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/832/trunk/src/reference/DefaultSecurityConfiguration.php
+END
+FileBasedAccessController.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/832/trunk/src/reference/FileBasedAccessController.php
+END
+FileBasedAuthenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/832/trunk/src/reference/FileBasedAuthenticator.php
+END
+DefaultAuditor.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/832/trunk/src/reference/DefaultAuditor.php
+END
+DefaultSanitizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/832/trunk/src/reference/DefaultSanitizer.php
+END
+RandomAccessReferenceMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/827/trunk/src/reference/RandomAccessReferenceMap.php
+END
+DefaultRandomizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/832/trunk/src/reference/DefaultRandomizer.php
+END
+DefaultHTTPUtilities.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/820/trunk/src/reference/DefaultHTTPUtilities.php
+END
+DefaultUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/834/trunk/src/reference/DefaultUser.php
+END
+DefaultEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/836/trunk/src/reference/DefaultEncoder.php
+END
+DefaultIntrusionDetector.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/729/trunk/src/reference/DefaultIntrusionDetector.php
+END

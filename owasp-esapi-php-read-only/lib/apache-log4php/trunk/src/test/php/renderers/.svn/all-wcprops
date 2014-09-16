@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/renderers
+END
+LoggerRendererMapTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/renderers/LoggerRendererMapTest.php
+END
+LoggerRendererDefaultTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/renderers/LoggerRendererDefaultTest.php
+END
+LoggerRendererObjectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/577/trunk/lib/apache-log4php/trunk/src/test/php/renderers/LoggerRendererObjectTest.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/Lexer
+END
+PH5P.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/Lexer/PH5P.php
+END
+DirectLex.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/Lexer/DirectLex.php
+END
+PEARSax3.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/Lexer/PEARSax3.php
+END
+DOMLex.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/577/trunk/lib/htmlpurifier/HTMLPurifier/Lexer/DOMLex.php
+END
